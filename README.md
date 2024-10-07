@@ -1,2 +1,2 @@
 # Apnacollege
-<br> This is nmy new repository file </br>
+<br> This is my new repository file </br>
